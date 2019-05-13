@@ -1,0 +1,7 @@
+11.
+pwd
+/home/sys/s236057/Windows/Documents/algorithm1
+
+12.
+ls
+nextdir  text2.txt
