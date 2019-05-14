@@ -28,8 +28,8 @@ int next_num(int k)
 
 int main(void)
 {
-    int a;
-    scanf("%d", &a);
+    int a = 1;
+
     do
     {
         a = next_num(a);
