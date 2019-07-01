@@ -1,3 +1,5 @@
+IEEE754にしたがって表現されている。
+
 #include <stdio.h>
 
 int count_bits(unsigned x)
@@ -35,5 +37,3 @@ int main(void)
     } while (1);
     return 0;
 }
-
-//let's just put it aside for a minite and never remember.
